@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+seaborn
+numpy
+pandas
+notebook
+scikit-learn
+# tflite-runtime # use it for edge devices
